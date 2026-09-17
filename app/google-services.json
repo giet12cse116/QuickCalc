@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356824906433",
+    "project_id": "quick-calc-d8123",
+    "storage_bucket": "quick-calc-d8123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356824906433:android:53a2525d3fe5e038f6b240",
+        "android_client_info": {
+          "package_name": "com.pp.Quickcalc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvp20KXkEPknCCHEOr_vWEIpmRquWuMrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
