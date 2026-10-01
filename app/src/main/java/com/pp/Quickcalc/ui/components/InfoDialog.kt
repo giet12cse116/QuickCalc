@@ -58,7 +58,7 @@ fun InfoDialog(onDismiss: () -> Unit) {
                     Text("ℹ️", fontSize = 24.sp)
                     Spacer(Modifier.width(10.dp))
                     Text(
-                        text = "NumFlow Rules & Guide",
+                        text = "QuickCalc Rules & Guide",
                         fontSize = 20.sp,
                         fontWeight = FontWeight.Bold,
                         color = NeonCyan

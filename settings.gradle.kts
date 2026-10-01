@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NumFlow-Maths"
+rootProject.name = "QuickCalc"
 include(":app")

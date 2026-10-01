@@ -263,13 +263,15 @@ fun PrivacyPolicyDialog(onDismiss: () -> Unit) {
                         .verticalScroll(rememberScrollState())
                 ) {
                     Text(
-                        text = "NumFlow Privacy Policy\nEffective Date: August 31, 2026\n\n" +
-                                "1. Information Collection: NumFlow is built as an offline-first game. We do not collect or store any Personally Identifiable Information (PII) on external servers.\n\n" +
+                        text = "Privacy Policy for QuickCalc: Math IQ Game\n" +
+                                "Effective Date: August 31, 2026\n\n" +
+                                "This Privacy Policy governs the app QuickCalc: Math IQ Game, developed by Prabhakar Panda.\n\n" +
+                                "1. Information Collection: QuickCalc: Math IQ Game is built as an offline-first game. We do not collect or store any Personally Identifiable Information (PII) on external servers.\n\n" +
                                 "2. Local Storage: Level progress (Levels 1–20), sound preferences, and vibration settings are stored locally on your device via Android DataStore.\n\n" +
                                 "3. Data Control: You can reset all saved game progress to Level 1 at any time using the Reset Game Progress option in Settings.\n\n" +
                                 "4. Advertising: Google AdMob may process non-identifying device metrics to serve relevant ads in accordance with Google's Privacy Policy.\n\n" +
-                                "5. Children's Safety: NumFlow complies with family safety standards and COPPA.\n\n" +
-                                "6. Contact: support@numflow.com",
+                                "5. Children's Safety: QuickCalc: Math IQ Game complies with family safety standards and COPPA.\n\n" +
+                                "6. Contact: giet12cse116@gmail.com",
                         fontSize = 14.sp,
                         color = Color(0xFF94A3B8),
                         lineHeight = 22.sp
